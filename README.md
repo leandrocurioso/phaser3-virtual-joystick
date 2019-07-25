@@ -4,7 +4,10 @@ A Phaser 3 virtual joystick implementation with phaser3-rex-notes plugin. This p
 <br/>
 **If you like this implementation please star it =)**
 <br/>
-**Documentation lnk**: https://rexrainbow.github.io/phaser3-rex-notes/docs/site/virtualjoystick/
+
+**DEMO**: http://phaservirtualjoystick.leandrocurioso.com
+<br/>
+**Documentation lnk**: https://rexrainbow.github.io/phaser3-rex-notes/docs/site/virtualjoystick
 
 ![alt Demo](https://raw.githubusercontent.com/leandrocurioso/phaser3-virtual-joystick/master/demo.png)
 
