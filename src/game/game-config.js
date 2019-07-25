@@ -10,13 +10,13 @@ export default {
     scene: [
       MainScene
     ],
-    pixelArt: true,
+    pixelArt: false,
     backgroundColor: 0x333333,
     physics: {
         default: 'arcade',
         arcade: {
           gravity: { y: 0 },
-          debug: true
+          debug: false
         }
       }
 };;
