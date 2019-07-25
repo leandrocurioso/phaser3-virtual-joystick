@@ -1,6 +1,7 @@
 # Phaser3 Virtual Joystick
 
 A Phaser 3 virtual joystick implementation with phaser3-rex-notes plugin.
+<br>
 **Documentation lnk**: https://rexrainbow.github.io/phaser3-rex-notes/docs/site/virtualjoystick/
 
 ![alt Demo](https://raw.githubusercontent.com/leandrocurioso/phaser3-virtual-joystick/master/demo.png)
