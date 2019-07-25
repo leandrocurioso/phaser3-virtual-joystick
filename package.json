@@ -1,7 +1,7 @@
 {
   "name": "phaser3-virtual-joystick",
   "version": "1.0.0",
-  "description": "phaser3-virtual-joystick",
+  "description": "A Phaser 3 virtual joystick implementation with phaser3-rex-notes plugin.",
   "keywords": [
     "phaser-webpack",
     "Phaser3-webpack"
